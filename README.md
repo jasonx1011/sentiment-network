@@ -1,10 +1,10 @@
 # sentiment-network
 
 **Deep Learning Foundation Nanodegree Program**  
-**Mini Project**  
-sentiment-network  
 
-Work-In-Progress  
+**Mini Project: sentiment-network**    
+
+_Work-In-Progress_  
 
 Step 1: Quick Theory Validation  (Completed)  
 Step 2: Creating the Input/Output Data (Completed)  
